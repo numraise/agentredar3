@@ -1,0 +1,16 @@
+{
+    "name": "agent-radar",
+    "version": "0.0.1",
+    "description": "Agent Monster Radar",
+    "dependencies": {
+        "core": "*",
+        "minecraft": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "1.0.0"
+    }
+}
